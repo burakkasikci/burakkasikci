@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at PlusClouds as a Frontend developer & Project manager.
+I am currently working as Software Department Manager at PlusClouds. (I have worked in this company before as Front End developer and Project manager.)
 
 I mostly worked as a backend developer and most recently worked at a .Net Core - microservice firm that provides high-traffic email services. (at INBOX)
 
