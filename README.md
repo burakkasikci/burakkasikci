@@ -1,54 +1,23 @@
-### Merhaba 👋
+### Selamlar 👋
 
-DijitalPanter olarak kendi ekibimizle 360° dijital pazarlama ihtiyaçlarına ve yazılım projelerine hizmet veriyoruz. Burada bir yandan sizlere hizmet verirken, bir yandan da kendi ürünlerimizi geliştiriyor, pazarda kendimize yer bulmaya çalışıyoruz. Burada projenin baştan sona yönetimini, firmayı birlikte yürüttüğümüz Uğur Doğan ile birlikte yapıyor, yoğunluğa ve işin boyutuna göre backend kısmını geliştiriyor, diğer kısımları iş arkadaşlarım ile paylaşarak ilerliyoruz.
+Ben Burak.
 
-DijitalPanter haricinde, son olarak DveB Danışmanlık ve Bilişim Çözümleri firmasında CTO olarak görev yaptım. Burada önceki deneyimlerim ile birlikte, hem ekibi, hem süreçleri tekrardan inşa edip, hem yazılım hem de dijitalde tüm hizmetlerinizde size destek oluyorduk. Pozisyonsal sorunlar yüzünden, burada 3 ay kadar durduktan sonra, yollarımızı ayırdık.
+Son yıllarda çalıştığım firmalarda yönetim alanında kendimi geliştirsem de aktif olarak bir development sevdalısıyım. (Hatırladığım ilk anlamlı kodum, ~2004'e, Turbo Pascal'da yaptığımız çakma menejerlik oyununa dayanıyor.)
 
-Buradan önce PlusClouds/NextDeveloper firmasında yazılım departman yöneticisi olarak çalıştım. Bu pozisyondan önce kendi iç sistemlerimiz ve yurtdışındaki projelerimiz için proje yöneticisi ve frontend developer pozisyonlarında çalıştım.
+Eskiden bu kadar frontend, backend gibi ayrımlar olmadığı için mesleğe Webmaster olarak başladık ve bu yüzden hala her koda korkusuzca girebiliyorum. Algoritmayı oturttuğum sürece, karşımda neyin olduğu çok umrumda değil, her kod birbirinin aynısı sonuçta mantığıyla dalıp, çıkıyorum. He tabi, bu süreçte teknik terimleri ve bazı patternler hayatıma girdi, fakat yılların alışkanlığı gereği kullandığım şeyleri kendime göre düzenleyip, kitaptan sapabiliyorum (bu da bazılarımızı üzüyor).
 
-Kalan zamanlarımda, bana çok keyif veren backend'den kopmamak için çeşitli projelere destek veriyorum ve kendi ürünlerimi geliştirmek için çabalıyorum.
+Neyse, iş kısmına girersek *DijitalPanter* olarak kendi ekibimizle 360° dijital pazarlama ihtiyaçlarına ve yazılım projelerine hizmet veriyoruz. Burada bir yandan sizlere hizmet verirken, bir yandan da kendi ürünlerimizi geliştirmeye çalışıyor, pazarda kendimize yer arıyoruz. Burada projenin baştan sona yönetimini, firmayı birlikte yürüttüğümüz Uğur Doğan ile birlikte yapıyor, yoğunluğa ve işin boyutuna göre backend kısmını geliştiriyor, diğer kısımları iş arkadaşlarım ile paylaşarak ilerliyoruz.
 
-Şimdiye kadar çoğunlukla backend developer olarak çalıştım ve en son olarak da yüksek trafikli e-posta hizmetleri sağlayan INBOX'ta, .Net Core - microservis yapısı için backend developer olarak çalıştım.
-Bu firmadan önce Dreams&Bytes'ta anlık teklif ve araba müzayedelerinin yapıldığı bir projede backend geliştirici olarak başladım ve node.js ile teklif verme altyapısında deneyim kazanıp ekip lideri olarak devam ettim.
+DijitalPanter haricinde, aktif olarak _Laksi_ firmasında Bilgi Teknolojileri Direktörü olarak görev yapıyorum. Burada aktif olarak kadromuzu ve teknolojik işlerimizi geliştirirken, bir yandan development'a destek oluyorum. Bundan önce ise _DveB Danışmanlık ve Bilişim Çözümleri ve PlusClouds  (alt markası NextDeveloper)_ firmalarında Yazılım Departman Yöneticisi olarak çalıştım. Bu pozisyonlardan önce ise proje yöneticisi, takım liderliği ve developer pozisyonlarında, farklı firmalarda çalıştım. Bu firmalar arasında yüksek trafikli e-posta hizmetleri sağlayan _INBOX_, node.js ile anlık teklif ve araba müzayedelerinin yapıldığı bir projeyi yöneten _Dreams&Bytes_, araç satışının yapıldığı ve muhasebe, finans gibi konularda çok fazla içli dışlı olduğum _Kosifler Oto_ gibi firmalar vardı.
 
-Genel olarak projelerin her aşamasında olmayı seviyorum. Bu benim için en büyük avantaj, analiz aşamasından son ana kadar projenin tüm alanlarında konuyla ilgili bilgi ve tecrübemle hatasız ve sonuç odaklı bir çalışma yapabilmemdir.
+Sona gelirsek, projelerin her aşamasında olmayı seviyorum. Bu benim için en büyük avantaj, analiz aşamasından son ana kadar projenin tüm alanlarında konuyla ilgili bilgi ve tecrübemle hatasız ve sonuç odaklı bir çalışma yapabilmem diyebilirim.
 
-Backend;
-- ASP.NET Core MVC
-- ASP.NET MVC
-- PHP / Laravel framework
-- C#
-- Fluent Validations
-- JWT
-- Node.js
-- Rabbit MQ
-- MSMQ
-- Automapper
-  
-Frontend;
-- Bootstrap
-- Javascript
-- jQuery
-- Typescript
-- Vue.Js
-  
-Database;
-- Microsoft SQL Server
-- MySql
-- MongoDb
-- Redis
-  
-Graph Database;
-- Neo4j
-  
-Proje Yönetimi;
-- Jira
-- Trello
-- Gitlab
-- ClickUp
-  
-Kaynak Kontrolü;
-- BitBucket
-- Git
-- GitHub
-- Gitlab
+~~~
+var technologies = new SomeOfTheTechIKnow()
+{
+  backend = new() { ".Net", "Node.js", "Rabbit MQ", "Redis", "Some Patterns" },
+  frontend = new() { "Javascript", "Vue.Js", "JQuery", "Bootstrap" },
+  database = new() { "MSSQL", "MySql", "MongoDb", "Redis", "Neo4j (GraphDb)" },
+  projectManagement = new() { "Jira", "Trello", "Gitlab", "ClickUp" }
+}; 
+~~~
