@@ -2,7 +2,7 @@
 
 Ben Burak.
 
-Son yıllarda çalıştığım firmalarda yönetim alanında kendimi geliştirsem de aktif olarak bir development sevdalısıyım. (Hatırladığım ilk anlamlı kodum, ~2004'e, Turbo Pascal'da yaptığımız çakma menejerlik oyununa dayanıyor.)
+Son yıllarda çalıştığım firmalarda yönetim alanında kendimi geliştirsem de aktif olarak bir development sevdalısıyım. (Hatırladığım ilk anlamlı kodum, ~2004'e, Turbo Pascal'da yaptığımız çakma menajerlik oyununa dayanıyor.)
 
 Eskiden bu kadar frontend, backend gibi ayrımlar olmadığı için mesleğe Webmaster olarak başladık ve bu yüzden hala her koda korkusuzca girebiliyorum. Algoritmayı oturttuğum sürece, karşımda neyin olduğu çok umrumda değil, her kod birbirinin aynısı sonuçta mantığıyla dalıp, çıkıyorum. He tabi, bu süreçte teknik terimleri ve bazı patternler hayatıma girdi, fakat yılların alışkanlığı gereği kullandığım şeyleri kendime göre düzenleyip, kitaptan sapabiliyorum (bu da bazılarımızı üzüyor).
 
