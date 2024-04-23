@@ -4,7 +4,7 @@ Ben Burak.
 
 Son yıllarda çalıştığım firmalarda yönetim alanında kendimi geliştirsem de aktif olarak bir development sevdalısıyım. (Hatırladığım ilk anlamlı kodum, ~2004'e, Turbo Pascal'da yaptığımız çakma menajerlik oyununa dayanıyor.)
 
-Eskiden bu kadar frontend, backend gibi ayrımlar olmadığı için mesleğe Webmaster olarak başladık ve bu yüzden hala her koda korkusuzca girebiliyorum. Algoritmayı oturttuğum sürece, karşımda neyin olduğu çok umrumda değil, her kod birbirinin aynısı sonuçta mantığıyla dalıp, çıkıyorum. He tabi, bu süreçte teknik terimleri ve bazı patternler hayatıma girdi, fakat yılların alışkanlığı gereği kullandığım şeyleri kendime göre düzenleyip, kitaptan sapabiliyorum (bu da bazılarımızı üzüyor).
+Eskiden bu kadar frontend, backend gibi ayrımlar olmadığı için mesleğe Webmaster olarak başladım ve bu yüzden hala her koda korkusuzca girebiliyorum. Algoritmayı oturttuğum sürece, karşımda neyin olduğu çok umrumda değil, her kod birbirinin aynısı sonuçta mantığıyla dalıp, çıkıyorum. He tabi, bu süreçte teknik terimleri ve bazı patternler hayatıma girdi, fakat yılların alışkanlığı gereği kullandığım şeyleri kendime göre düzenleyip, kitaptan sapabiliyorum (bu da bazılarımızı üzüyor).
 
 Neyse, iş kısmına girersek *DijitalPanter* olarak kendi ekibimizle 360° dijital pazarlama ihtiyaçlarına ve yazılım projelerine hizmet veriyoruz. Burada bir yandan sizlere hizmet verirken, bir yandan da kendi ürünlerimizi geliştirmeye çalışıyor, pazarda kendimize yer arıyoruz. Burada projenin baştan sona yönetimini, firmayı birlikte yürüttüğümüz Uğur Doğan ile birlikte yapıyor, yoğunluğa ve işin boyutuna göre backend kısmını geliştiriyor, diğer kısımları iş arkadaşlarım ile paylaşarak ilerliyoruz.
 
