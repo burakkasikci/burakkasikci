@@ -8,7 +8,7 @@ Eskiden bu kadar frontend, backend gibi ayrımlar olmadığı için mesleğe Web
 
 Neyse, iş kısmına girersek kendi ekibimizle 360° dijital pazarlama ihtiyaçlarına ve yazılım projelerine hizmet veriyoruz. Burada bir yandan sizlere hizmet verirken, bir yandan da kendi ürünlerimizi geliştirmeye çalışıyor, pazarda kendimize yer arıyoruz. 
 
-Bunun haricinde yıllardır departman müdürü, takım lideri, proje yöneticisi, developer ve bu çerçevedeki rollerde görev aldım. Burada diyebileceğim en güzel şey, fikir güzel olduktan sonra projenin hangi aşamasında olduğumun önemi olmadan, hepsine katkı sağlayabilmem, severek yapabilmem.  
+Bunun haricinde yıllardır developer, db admin, analist, proje yöneticisi, takım lideri, departman müdürü ve bu çerçevedeki rollerde görev aldım. Burada diyebileceğim en güzel şey, fikir güzel olduktan sonra projenin hangi aşamasında olduğumun önemi olmadan, hepsine katkı sağlayabilmem, severek yapabilmem.  
 
 ~~~
 var technologies = new SomeOfTheTechIKnow()
@@ -23,6 +23,7 @@ var technologies = new SomeOfTheTechIKnow()
 ##### Günlük hayatımı merak edenlere;
 <p align="left">
 <a href="https://linkedin.com/in/burakkasikci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakkasikci" height="20"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@burakkasikci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="burakkasikci" height="20" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/burakkasikci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakkasikci" height="20" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/burakkasikci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burakkasikci" height="20" /></a>
 </p> 
