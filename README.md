@@ -1,18 +1,18 @@
-## Selamlar 👋
+## Hi 👋
 
-Ben Burak. (Developer, DB admin, analist, takım lideri…)
+I’m Burak — a software developer with hands-on experience across development, databases, and team leadership.
 
-- ~2004’te Turbo Pascal’la kod yazmaya başladım, hâlâ bırakamadım.
-- Frontend / backend ayrımına çok takılmam — algoritma oturdu mu her yer backend.
-- Yönetim tarafında da çalıştım ama kalbim hâlâ kodda.
-- Pattern’leri bilirim, gerekirse kitaptan biraz saparım (üzgün değilim).
+- Coding since ~2004 (started with Turbo Pascal).
+- Comfortable across the stack; I focus on solid algorithms over labels.
+- Background in both engineering and management.
+- I follow best practices, but I’m pragmatic when real-world constraints apply.
 
 ~~~
-var technologies = new SomeOfTheTechIKnow()
+var stack = new SomeOfTheTechIKnow()
 {
-  backend = new() { ".Net", "Node.js", "Rabbit MQ", "Redis", "Some Patterns" },
-  frontend = new() { "Javascript", "Vue.Js", "JQuery", "Bootstrap" },
-  database = new() { "MSSQL", "MySql", "MongoDb", "Redis", "Neo4j (GraphDb)" },
-  projectManagement = new() { "Jira", "Trello", "Gitlab", "ClickUp" }
+  Backend = new() { ".Net", "Node.js", "Rabbit MQ", "Redis", "Some Patterns" },
+  Frontend = new() { "Javascript", "Vue.Js", "JQuery", "Bootstrap" },
+  Databases = new() { "MSSQL", "MySql", "MongoDb", "Redis", "Neo4j (GraphDb)" },
+  Tools = new() { "Jira", "Trello", "Gitlab", "ClickUp" }
 }; 
 ~~~
